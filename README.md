@@ -1,0 +1,1 @@
+This notebook currently contains a couple of term projects I completed for my COMP 115; Learn to Code and COMP 215; Intro to Computational Science courses, respectively. I'm currently working on personal projects to add.
